@@ -1,8 +1,11 @@
 # Console Translate
 
-**AI generated**
-
 A CLI tool that translates text between languages using the Google Cloud Translation API.
+
+![screenshot](https://img.shields.io/badge/AI-generated-green)
+
+# TODO
+- [ ] based on the $SHELL add alias to ~/.zshrc or ~/.bashrc
 
 ## Setup
 
